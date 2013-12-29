@@ -1,0 +1,7 @@
+# name : Blogger code highlighter
+# key: blog-c
+# group: blogger
+# --
+<pre class="brush: ${1:python}" title="${2:title}”>
+  $0
+</pre>

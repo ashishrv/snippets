@@ -1,0 +1,9 @@
+# name : <pre>...</pre>
+# key: blog-p
+# group: blogger
+# --
+<pre>
+  $0
+</pre>
+
+

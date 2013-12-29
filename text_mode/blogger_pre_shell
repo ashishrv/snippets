@@ -1,0 +1,8 @@
+# name : pre tag with class shell
+# key: blog-s
+# group: blogger
+# --
+<pre class="shell”>
+  $0
+</pre>
+

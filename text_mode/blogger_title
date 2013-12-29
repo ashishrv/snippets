@@ -1,0 +1,7 @@
+# name : Title for the blog post
+# key: blog-t
+# group: blogger
+# --
+<!-- Blog Title: ${1:title} -->
+$0
+
