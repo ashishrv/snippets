@@ -1,0 +1,5 @@
+# name : Cheatsheet - Insert snippet (li)
+# key: cheat-li
+# group: cheatsheet
+# --
+<li>${1:Description}<mark class="${2:green}">  ${3:Command} </mark></li>

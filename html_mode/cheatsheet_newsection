@@ -1,0 +1,11 @@
+# name : Cheatsheet - Insert section
+# key: cheat-section
+# group: cheatsheet
+# --
+<h6>${1:section name}</h6>
+<div class="panel">
+    <ul class="infodata">
+	$0
+    </ul>
+</div>
+
