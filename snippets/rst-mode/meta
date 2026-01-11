@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: HTML Metadata
+# key: meta
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. meta::
+   :description: ${1: description}
+   :keywords: ${2: keywords, split}
+   :keywords lang=en:

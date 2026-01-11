@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: body: sparsed-literal
+# key: parsed-literal
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. parsed-literal::
+    
+    $0
+    

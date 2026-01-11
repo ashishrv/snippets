@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: code fragments
+# key: code
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. code:: ${1:python}
+    :caption:
+    :number-lines:
+    
+    $0
+

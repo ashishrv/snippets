@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: admonitions: danger
+# key: danger
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. DANGER:: $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: admonitions: note
+# key: note
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. Note:: $0

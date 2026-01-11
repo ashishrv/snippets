@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: body: topic
+# key: topic
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. topic:: ${1:Topic Title}
+
+    $0
+    

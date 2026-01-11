@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: admonitions: warning
+# key: warn
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. warning:
+   $0

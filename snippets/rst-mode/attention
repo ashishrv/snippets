@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: admonitions: attention
+# key: att
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. Attention:: $0

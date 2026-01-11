@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: Table: CSV
+# key: csv-table
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. csv-table:: ${1:table name}
+   :header: ${2:"comma", "separated"}
+   :widths: ${3: 15, 10, 30}
+   :width: ${4: 10%, 20%, 70%}
+   
+   $0

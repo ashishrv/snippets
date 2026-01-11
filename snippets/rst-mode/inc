@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Literal Include
+# key: inc
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. literalinclude:: ${1:path}

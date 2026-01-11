@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: admonitions: caution
+# key: caution
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. Caution:: $0

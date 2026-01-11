@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: List local contents
+# key: loc
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. contents::
+    :local:
+    

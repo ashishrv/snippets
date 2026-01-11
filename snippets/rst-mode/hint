@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: admonitions: hint
+# key: hint
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. Hint:: $0

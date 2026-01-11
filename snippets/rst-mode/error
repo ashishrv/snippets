@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: admonitions: error
+# key: error
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. Error:: $0

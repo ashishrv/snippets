@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: admonitions: tip
+# key: tip
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. Tip:: $0

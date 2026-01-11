@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: Insert image
+# key: image
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. image:: ${1:path}
+   :height: ${2:100}
+   :width: ${3:200}
+   :alt: ${4:description}
+
+$0

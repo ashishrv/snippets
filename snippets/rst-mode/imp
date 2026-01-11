@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: admonitions: important
+# key: imp
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. Important:: $0

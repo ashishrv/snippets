@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Write header 1
+# key: h1
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+#################################################################
+${1:title}
+#################################################################

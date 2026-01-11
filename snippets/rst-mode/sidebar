@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: body: sidebar
+# key: sidebar
+# group: restructured-text
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+.. sidebar:: ${1:Optional Sidebar Title}
+    :subtitle: ${2:Optional Sidebar Subtitle}
+
+    $0
+    
