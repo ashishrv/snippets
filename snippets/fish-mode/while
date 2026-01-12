@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: while loop
+# key: while
+# group: fish
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+while ${1:cond}
+    $0
+end

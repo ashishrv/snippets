@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: Test if environment variable exists
+# key: testenv
+# group: fish
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+if test -n "\$${1:variable}"
+    # Variable exists
+    $0
+else
+    # Variable does not exists
+end
+

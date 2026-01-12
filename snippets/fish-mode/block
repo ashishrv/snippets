@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: begin ... end
+# key: block
+# group: fish
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+begin
+    $0
+end
