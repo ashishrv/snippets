@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Unordered List -
+# key: -
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+- ${1:Text}
+- $0

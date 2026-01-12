@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Inline Code
+# key: `
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+\`${1:Code}\` $0

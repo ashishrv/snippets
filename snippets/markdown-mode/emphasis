@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Emphasis
+# key: _
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+_${1:Text}_ $0

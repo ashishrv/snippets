@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Ordered List
+# key: ol
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+${1:1}. ${2:Text}
+${1:$(number-to-string (1+ (string-to-number yas-text)))}. $0

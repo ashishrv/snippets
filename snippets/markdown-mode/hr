@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Horizontal Rule (-)
+# key: hr
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+
+----------
+
+$0

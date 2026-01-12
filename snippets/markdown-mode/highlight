@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Highlight
+# key: highlight
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+{% highlight ${1:language} %}
+${0:content}
+{% endhighlight %}

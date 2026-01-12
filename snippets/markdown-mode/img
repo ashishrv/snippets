@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Image
+# key: img
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+![${1:Alt Text}](${2:URL} $3) $0

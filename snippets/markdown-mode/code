@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Code block
+# key: code
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+\`\`\`$1
+$0
+\`\`\`

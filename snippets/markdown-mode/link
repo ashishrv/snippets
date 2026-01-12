@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Link
+# key: link
+# group: markdown
+# contributor: Ashish Vidyarthi (@ashishrv)
+# --
+[${1:Link Text}](${2:URL} $3) $0
